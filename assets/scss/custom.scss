@@ -1,0 +1,29 @@
+/* Smaller cards for Projects and Talks sections */
+#projects, #talks {
+  /* Shrink the image area */
+  [class*="aspect-"] {
+    aspect-ratio: 16 / 6 !important;
+  }
+
+  /* Reduce content padding */
+  .p-8 {
+    padding: 1rem !important;
+  }
+
+  /* Smaller title */
+  h3 {
+    font-size: 1rem !important;
+    line-height: 1.3 !important;
+  }
+
+  /* Smaller description text */
+  .text-base {
+    font-size: 0.8rem !important;
+    line-height: 1.4 !important;
+  }
+
+  /* Reduce spacing between elements */
+  .space-y-4 > * + * {
+    margin-top: 0.5rem !important;
+  }
+}

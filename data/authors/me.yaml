@@ -1,0 +1,165 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+
+name:
+  display: Mehmet Furkan Celik
+  given: Mehmet Furkan
+  family: Celik
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+
+postnominals:
+  - PhD
+
+status:
+  icon: "🌍"
+
+role: Earth Observation & GeoAI Scientist
+
+bio: |
+  I am an Earth Observation and GeoAI Scientist working on remote sensing, machine learning, 
+  and geospatial analysis for agricultural and environmental applications. 
+  My research focuses on multimodal Earth observation data, crop monitoring, 
+  yield prediction, hyperspectral analysis, and interpretable AI for geospatial problems.
+
+affiliations:
+  - name: University of Twente
+    url: https://www.utwente.nl/
+  - name: Faculty of Geo-Information Science and Earth Observation (ITC)
+    url: https://www.itc.nl/
+
+links:
+  - icon: at-symbol
+    url: mailto:m.f.celik@utwente.nl
+    label: E-mail Me
+  #- icon: phone
+  #  url: tel:+31642374723
+  #  label: Call Me
+  - icon: custom/globe
+    url: https://people.utwente.nl/m.f.celik
+    label: Website
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/mfcelik89/
+    label: LinkedIn
+  - icon: brands/github
+    url: https://github.com/mf-celik
+    label: GitHub
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=gF3Yd20AAAAJ&hl=en&oi=ao
+    label: Google Scholar
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/0000-0001-7948-536X
+  #  label: ORCID
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Mehmet-Celik-8
+    label: ResearchGate
+
+interests:
+  - Earth Observation
+  - GeoAI
+  - Remote Sensing for Agriculture
+  - Machine Learning
+  - Hyperspectral Analysis
+  - Crop Yield Prediction
+  - Multimodal Geospatial Data
+  - Explainable AI
+
+education:
+  - degree: PhD in Remote Sensing
+    institution: Istanbul Technical University
+    start: 2016-01-01
+    end: 2023-12-31
+    summary: |
+      Thesis: Aiding Agricultural Practices with the Exploration of Earth
+      Observation Data via Machine Learning.
+      Final Grade: 3.36/4.00.
+  - degree: MSc in Photogrammetry
+    institution: Istanbul Technical University
+    start: 2013-01-01
+    end: 2016-12-31
+    summary: |
+      Thesis: The Investigation of Scour and Deposition Pattern Around Pier
+      Model with Photogrammetry and Terrestrial Laser Scanning.
+      Final Grade: 3.50/4.00.
+  - degree: BSc in Geomatics Engineering
+    institution: Istanbul Technical University
+    start: 2008-01-01
+    end: 2013-12-31
+    summary: |
+      Thesis: 3D Indoor Modelling with Terrestrial Laser Scanning.
+      Final Grade: 2.84/4.00.
+
+experience:
+  - role: Geospatial Expert
+    org: FAO of the United Nations
+    start: 2025-01-01
+    summary: |
+      Contributing geospatial expertise for agricultural and Earth observation
+      applications.
+  - role: Post-doc Researcher
+    org: University of Twente - ITC
+    start: 2024-01-01
+    summary: |
+      Conducting research in Earth observation, GeoAI, and agricultural
+      remote sensing.
+  - role: Research & Teaching Assistant
+    org: Istanbul Technical University
+    start: 2014-01-01
+    end: 2024-01-01
+    summary: |
+      Supported research and teaching activities in geomatics engineering,
+      remote sensing, and geospatial analysis.
+  - role: Visiting Scholar
+    org: University of Valencia
+    start: 2021-12-01
+    end: 2022-12-31
+    summary: |
+      Visiting research appointment in remote sensing and Earth observation.
+  - role: Visiting Scholar
+    org: The Ohio State University
+    start: 2015-04-01
+    end: 2015-10-31
+    summary: |
+      Visiting research appointment in geospatial and remote sensing studies.
+
+skills:
+  - name: Research Areas
+    items:
+      - label: Remote Sensing
+        level: 5
+      - label: Earth Observation
+        level: 5
+      - label: GeoAI
+        level: 5
+      - label: Machine Learning
+        level: 5
+      - label: Agricultural Monitoring
+        level: 4
+  - name: Technical Focus
+    items:
+      - label: Multimodal Data Fusion
+        level: 5
+      - label: Hyperspectral Analysis
+        level: 4
+      - label: Yield Prediction
+        level: 4
+      - label: Explainable AI
+        level: 4
+      - label: Geospatial Analysis
+        level: 5
+
+languages: []
+
+awards:
+  - title: PhD Thesis First Prize
+    awarder: ITU Graduate School
+    date: "2023-01-01"
+    summary: Awarded first prize for PhD thesis.
+    icon: hero/trophy
+  - title: PhD Thesis First Prize
+    awarder: IEEE GRSS Turkiye Chapter
+    date: "2023-01-01"
+    summary: Awarded first prize for PhD thesis.
+    icon: hero/trophy
